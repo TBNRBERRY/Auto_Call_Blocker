@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Auto Call Blocker</string>
+    <string name="unknown_contact">Unknown Contact</string>
+    <string name="block_unknown_calls">Block Unknown Calls</string>
+    <string name="permission_required">Permission Required</string>
+    <string name="permission_required_message">This app requires certain permissions to function properly. Please grant the necessary permissions in the app settings.</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="cancel">Cancel</string>
+</resources>

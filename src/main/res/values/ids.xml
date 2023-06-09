@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="phoneNumberTextView" type="id" />
+    <item name="contactNameTextView" type="id" />
+    <item name="callDateTextView" type="id" />
+    <item name="callDurationTextView" type="id" />
+    <item name="callLogListView" type="id"/>
+    <item name="tvRecentCalls" type="id"/>
+    <item name="tvCallerName" type="id"/>
+    <item name="tvCallerNumber" type="id"/>
+    <item name="tvCallType" type="id"/>
+    <item name="tvCallDate" type="id"/>
+    <item name="tvCallDuration" type="id"/>
+    <item name="lvRecentCalls" type="id" />
+</resources>
